@@ -1,0 +1,129 @@
+.navbar img{
+    height: 50px;
+}
+.navbar-area{
+    font-weight: 600;
+}
+.navbar-nav .sign-in{
+    background-color: rgb(11, 173, 133);
+    border-radius: 20px;
+}
+section {
+    margin-bottom: 100px;
+}
+.header{
+    padding: 20px;
+    margin-top: 100px;
+}
+.header img{
+    width: 600px;
+    height: 350px;
+}
+.header span{
+    color: rgb(11, 173, 133);
+}
+.header h1 {
+    font-weight: bold;
+}
+.btn{
+    background-color: rgb(11, 173, 133);
+    border-radius: 20px;
+    font-weight: 600;
+}
+.overview img{
+    height: 85px;
+    width: 70px;
+}
+.overview {
+    text-align: center;
+}
+.overview .card {
+    border: none;
+}
+.card .shadow{
+    box-shadow: 5px 5px 5px lightgray;
+}
+.online-courses h1{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.online-courses img{
+    width: 300px;
+    height: 230px;
+}
+.card-footer img{
+    width: 20px;
+    height: 20px;
+}
+.card img{
+    margin: 0 auto;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    color: rgb(66, 65, 65);
+    font-weight: bold;
+}
+.card-footer .part-1{
+    float: left;
+}
+.card-footer .part-2{
+    float: right;
+}
+.card-footer p{
+    padding-left: 5px;
+}
+.testimonial h2{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.testimonial img{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-top: 20px;
+}
+.testimonial p{
+    float: left;
+    padding: 20px;
+    margin: 10px 20px 0px 0px;
+    font-weight: 500;
+}
+footer p{
+    margin: 0px 100px;
+}
+footer{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    height: 300px;
+    padding: 70px 0px;
+}
+footer ul li{
+    list-style-type: none;
+}
+footer h5{
+    margin-left: 40px;
+}
+.copyright{
+    text-align: center;
+    margin-top: 20px;
+}
+.card:hover{
+    box-shadow: 5px 5px 5px 5px lightblue;
+
+}
+.navbar-nav a:hover {
+    background-color: rgb(11, 173, 133);
+    margin: 0px 10px;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+}
+footer a:hover{
+    box-shadow: 5px 5px 5px lightblue;
+    background-color: orange;
+}
