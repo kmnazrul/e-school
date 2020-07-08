@@ -113,7 +113,7 @@ footer h5{
     margin-top: 20px;
 }
 .card:hover{
-    box-shadow: 5px 5px 5px 5px lightblue;
+    box-shadow: 5px 5px 5px lightgray;
 
 }
 .navbar-nav a:hover {
